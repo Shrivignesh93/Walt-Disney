@@ -1,0 +1,188 @@
+body
+{
+	width: 100%;
+	padding: 0px;
+	margin:0px;
+}
+#but
+{
+	color:#b26d07;
+}
+#ton
+{
+	margin-left: 15px;
+	margin-top: 12px;
+}
+
+
+#one
+{
+	font-family: arial;
+	font-style: italic;
+	display: inline;
+	font-size: 30px;
+	margin-top: 12px;
+	margin-left: 8px;
+}
+
+#callout1:focus
+{
+	margin-top: 15px;
+	font-family: Arial;
+	font-style:italic;
+	font-weight: bold;
+	float: right;
+	margin-right: 10px;
+}
+#callout2:focus
+{
+	max-width: 99%;
+	font-style:italic;
+	font-weight: bold;
+	margin-top: 4px;
+	margin-bottom: 8px;
+	text-align: right;
+}
+
+button
+{
+	background-color:transparent; 
+	color: #f7d185 ;
+	padding: 8px;
+	border-radius: 8px;
+	border: 4px solid #962a07 ;
+}
+header
+{
+	text-align: center;
+	max-width: 100%;
+	height: auto;
+	margin-top: 12px;
+	max-width: 98%;
+	background-color: #f7c745 ;
+	border: 2px solid #563f00;
+	margin-left: 10px;
+}
+ul
+{
+	margin: 0px;
+	padding: 0px;
+	color: #f7d185;
+}
+ul li
+{
+	float: left;
+	text-align: center;
+	list-style: none;
+	background: #000000;
+	opacity: 0.7;
+	width: 325px;
+	margin: 6px; 
+	margin-top: 14px;
+	font-size: 20px;
+	line-height: 30px;
+	margin-left: 10px;
+}
+
+ul li a
+{
+	text-decoration: none;
+	display: block;
+}
+ul li a:hover
+{
+	background-color: green;
+}
+ul li ul li
+{
+	display: none;
+}
+ul li:hover ul li
+{
+	display: block;
+}
+#same
+{
+	color: #ffffff;
+}
+
+#pic
+{ 
+	text-align: center;
+}
+#pic img
+{
+	margin-top: 12px;
+}
+#whole
+{
+	margin: 0px;
+	padding: 0px;
+}
+#famous
+{
+	margin-left: 3%;
+	color:#d60906;
+	font-family:Comic Sans MS; 
+	font-style: italic; 
+	font-size: 25px;
+	margin-top: 8px;
+	margin-bottom: 1p
+}
+#quote
+{
+	width: 65%;
+	float: left;
+	display: inline;
+	margin-left: 3%;
+	color: #f7d185 ;
+	padding: 15px;
+	margin-top: 0px;
+	font-size: 22px;
+
+}
+#quote li
+{
+	text-align: left;
+}
+#picside
+{
+	display: inline;
+}
+
+#new1
+{
+	border: 4px solid #2d2d29;
+	float: right;
+	display: inline;
+	width: 25%;
+	margin-right: 30px;
+	margin-bottom: 25px;
+}
+#section
+{
+	float: left;
+	width: 29%;
+	margin: 2% 2%;
+	text-align: center;
+	color: #f7d185;
+}
+#mic
+{
+	border: 7px solid #000000;
+}
+#tom
+{
+	border: 7px solid #000000;
+}
+#third
+{
+	margin-top: 0%;
+}
+h3
+{
+	font-family: Helvetica;
+	color: #fc3d00;
+}
+
+
